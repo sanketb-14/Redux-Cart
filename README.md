@@ -1,6 +1,7 @@
 # Redux-cart
 made with react-redux library
-Live - redux-cart-mu.vercel.app
+# Live - 
+https://redux-cart-mu.vercel.app/
 
 
 
